@@ -17,6 +17,8 @@
 
 [想轻松获得阿里云：云服务器管理运维认证？这些笔记必须看！](https://www.toutiao.com/i6532972571132953101/)
 
+[干货：阿里云云计算专项技能认证：云数据库管理与数据迁移笔记](https://www.toutiao.com/i6534453717935063566/)
+
 
 ### 个人博客
 
@@ -25,3 +27,5 @@
 [Apsara Clouder认证 — 阿里巴巴编码规范重点介绍](http://www.soaringroad.com/?p=668)
 
 [Apsara Clouder云计算专项技能认证：云服务器管理运维](http://www.soaringroad.com/?p=677)
+
+[干货：阿里云云计算专项技能认证：云数据库管理与数据迁移笔记](http://www.soaringroad.com/?p=733)
